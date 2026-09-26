@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RAI Associates",
+      "hasCanvas": false,
+      "bodyTextLen": 4588,
+      "bodyTextHash": "2bef2c47bcceb45ebf2dbc246d47cfd0758ec411fe6136cb811fa5630912fccc",
+      "bodyTextPrefix": "Skip to content RAI Associates ADVOCATES & SOLICITORS The Firm P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RAI Associates",
+      "hasCanvas": false,
+      "bodyTextLen": 4510,
+      "bodyTextHash": "3b53730143f1ef38789968e72a9a1b6a2123efd4215ef12227d2dfadfda9ebe7",
+      "bodyTextPrefix": "Skip to content RAI Associates ADVOCATES & SOLICITORS · CHANDIGA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
